@@ -24,8 +24,8 @@ import {
 
 export function Dashboard() {
   const userProfile = {
-    name: "Arjun Patel",
-    email: "arjun.patel@example.com",
+    name: "abhishek p",
+    email: "abhishekp454504@gmail.com",
     phone: "+91 98765 43210",
     graduation: "2018",
     degree: "Computer Science Engineering",
